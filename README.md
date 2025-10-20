@@ -1,4 +1,4 @@
-Eu estava em Quixadá na praça do Leão então... Quando tudo escureceu.
+aaaaaaaaaEu estava em Quixadá na praça do Leão então... Quando tudo escureceu.
 Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete
 
 ![img sorvete](https://www.estadao.com.br/resizer/v2/ARWVXQGF6RGFRPBG6D3W26J5BQ.jpg?quality=80&auth=05206814eb1d0c668985a2e0c2753214c22489aacc1d4a58d007406e86ac0bcc&width=1200)
@@ -9,5 +9,19 @@ Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei 
 Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal.
 <img src="https://media1.tenor.com/m/dq-3KVwBe7EAAAAd/cat.gif" alt="gifGato"/>
  O sorvete tinha algo estranho dentro. Do absolutamente nada, o tom quadrado me apareceu assi: ![alt text](image.png)
+Ornitorrinco
+
+
+
+
+
+
+
+
+
+
+
+Fui no mercado comprar melao, quando a formiguinha subiu na minha mão
 Ornitorrinco, o parry o ornitorrinco
-gente q isso aqui?
+Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion.
+pse né man
