@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Eu estava em Quixadá, na praça do Leão. Vi um grupo de jovens jogando altinha — pareciam universitários, muito animados porque as férias estavam chegando e tinham acabado de concluir a última prova. De repente tudo escureceu.
 
 Depois disso, fui até a sorveteria e pedi uma casquinha de baunilha. Quando olhei para o sorvete, vi algo surreal: havia algo estranho dentro.
@@ -60,7 +56,11 @@ Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei 
 
 <br/>
 
+
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
 pse né man
 oxi
 mermao
+
+fiquei enojado 
+
