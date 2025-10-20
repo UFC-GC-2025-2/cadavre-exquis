@@ -75,4 +75,10 @@ pse né man
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
 >>>>>>> 3698076a9dbb2cef7152f8a14448a2905a67e535
 
+<<<<<<< HEAD
+![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
+=======
+MEU DEUS
+>>>>>>> 8d005fa0872c50a14c96dac6e9c35f285163a330
+
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
