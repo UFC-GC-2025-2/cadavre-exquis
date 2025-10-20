@@ -77,6 +77,7 @@ Com toda essa situação, fiquei assustada e voltei à praça para falar com meu
 pse né man
 oxi
 mermao
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
@@ -107,3 +108,6 @@ AAAAAA
 </html>
 >>>>>>> 81877507bda07ab103bc8e90bf499b0068a744ba
 >>>>>>> 220f5c0575273d7456342d84ebe6e2eb15fe5ff5
+=======
+Então as lembrei que tive que voltar para a faculdade novamente
+>>>>>>> 23b0a5057edcf3d0dd969adc3bc56322eb3495a3
