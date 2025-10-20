@@ -234,6 +234,9 @@ fiquei enojado
 
 <img src="parry.jpg"> e o sol derreteu meu sorvgit pull origin main
 ete :(
+
+<img src="parry.jpg"> ueeenn :(
+		
 =======
 >>>>>>> 83a837547f58642bdaf5fd3b732cbdcb42083ab0
 
