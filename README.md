@@ -29,7 +29,6 @@ Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei 
 <img src="https://media1.tenor.com/m/dq-3KVwBe7EAAAAd/cat.gif" alt="gifGato"/>
 O sorvete tinha algo estranho dentro. Do absolutamente nada, o tom quadrado me apareceu assi: ![alt text](image.png)
 Ornitorrinco, o parry o ornitorrinco e então me assustei, fiquei pálida e sem querer derrubei meu sorvete no chão, fique triste mas como tinha ainda algumas moedas no bolso, fui comprar outro e eu espero que ele seja normal mas também veio estranho e eu desisti de comer sorvete
-=======
 
 aaaaaaaa
 Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal. O sorvete tinha algo estranho dentro.
@@ -64,10 +63,10 @@ Ornitorrinco, o parry o ornitorrinco
 Ornitorrinco, o parry o ornitorrinco o parry o ornitorrinco que tomou meu sorvete ![alt text](parry.jpg)
 
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion.
-<<<<<<< HEAD
+
 pse né man
 Eu estava em Quixadá na praça do Leão então... Quando tudo escureceu.
-<<<<<<< HEAD
+
 Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal, o Edivar carregando um
 
 O sorvete tinha algo estranho dentro. Do absolutamente nada, o tom quadrado me apareceu assim:  
@@ -85,54 +84,18 @@ Com toda essa situação, fiquei assustada e voltei à praça para falar com meu
 pse né man.
 
 Então, de repente, vi o Edivar carregando uma mochila da Monster High.
-=======
+
 Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal, o Edivar carregando uma mochila da monster high
 
-> > > > > > > # b14ea1e4a6ce4d84a7625ef5a8c23c3b16ce39d7
-
-<<<<<<< HEAD
-
-> > > > > > > # 1f96e60f5fa270a1e903ecdcdd601fab2f9a659a
-> > > > > > >
-> > > > > > > <br/>
-> > > > > > > E então, de repente, um cachorro caramelo apareceu 🐕
-> > > > > > > 2262797bcc384c36ab9a0b5595844c489f3443f7
-> > > > > > > =======
-> > > > > > > pse né man
-> > > > > > > e75940b9e9cfcd8640a953f25eead6fe475478f8
-> > > > > > > =======
-
-# pse né man.
+pse né man.
 
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
 pse né man
-<<<<<<< HEAD
-
-> > > > > > > 3698076a9dbb2cef7152f8a14448a2905a67e535
-
-<<<<<<< HEAD
-
-> > > > > > > # 6596b43ed3bb0282dac334ae5880d85c0e584e27
-> > > > > > >
-> > > > > > > ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
-> > > > > > > 3698076a9dbb2cef7152f8a14448a2905a67e535
-> > > > > > > 18ba061d34e11221555255fb9e013797de234212
-> > > > > > > =======
-> > > > > > > pse né man
-> > > > > > > Eu estava em Quixadá na praça do Leão então... Quando tudo escureceu.
-> > > > > > > Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal, o Edivar carregando um
-> > > > > > > =======
-> > > > > > > Eu estava em Quixadá na praça do Leão então... Quando tudo escureceu.
-> > > > > > > Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal, o Edivar carregando um
-> > > > > > > dcda5defb8b211b786e3c4df7d14d1096c80d446
->>>>>>> refs/remotes/origin/main
->>>>>>> f70702a2532881c1cb2b00b8d57cec40dc6990d1
 
 ![rato banho](https://media1.tenor.com/m/BEQXJON8RaMAAAAd/rato-banho.gif)
 
 <br/>
 
-<<<<<<< HEAD
 O Lion me disse que era aniversário dela, então pedi bolo 🎂.
 
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
@@ -141,7 +104,6 @@ oxi
 Então coloquei uma blaca do lado dele: "Não dê nem água"
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
 
-=======
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
 pse né man
 
@@ -151,7 +113,6 @@ O Lion me disse quer era niver dela, aí eu pedi bolo
 
 oxi
 
->>>>>>> f70702a2532881c1cb2b00b8d57cec40dc6990d1
 <html>
 	<div>
 		<span> 
@@ -159,13 +120,11 @@ oxi
 		</span>
 	</div>
 </html>
-<<<<<<< HEAD
 
 mermão... fiquei enojado.
 
 MEU DEUS.
 Então as lembrei que tive que voltar para a faculdade novamente
-=======
 
 mermao
 
@@ -176,7 +135,7 @@ MEU DEUS
 
 
 
-# ![img](https://miro.medium.com/v2/resize:fit:1000/0*yItQ1DiR5PLcd94T.jpg)
+[img](https://miro.medium.com/v2/resize:fit:1000/0*yItQ1DiR5PLcd94T.jpg)
 
 AAAAAA
 
@@ -186,26 +145,14 @@ AAAAAA
 		Encontrei o edivar na praça e comprei um milkshake para ele, mas era uma barra de sabão.
 	</span>
 </div>
->>>>>>> 81877507bda07ab103bc8e90bf499b0068a744ba
-<<<<<<< HEAD
->>>>>>> c2b47b4a9ed1a2c07dc22efabda8cd586551dcc2
 
-# <img src="image.png">
+
+ <img src="image.png">
 
 fiquei enojado
 
-> > > > > > > dcda5defb8b211b786e3c4df7d14d1096c80d446
-
 <img src="parry.jpg"> e o sol derreteu meu sorvete :(
-=======
 
 ![gif](https://th.bing.com/th/id/R.7722fd62ad3821d1b42d4f5fbabb6218?rik=kLth1JKCx0CTIQ&pid=ImgRaw&r=0)
->>>>>>> fa154874a22544c971f07361a8dc741a3c67a2c7
-
-![alt text](image-1.png)
 ai depois disso ainda 
-<<<<<<< HEAD
->>>>>>> f70702a2532881c1cb2b00b8d57cec40dc6990d1
-=======
 e eu só preciso de um commit ):
->>>>>>> bdeb7c9c8bd69aeb46b441d26f5eb7f87d37af5f
