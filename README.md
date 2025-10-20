@@ -60,7 +60,7 @@ Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei 
 
 <br/>
 
-Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
+Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion (ele é Mestre Conselheiro Estadual), o gato da Clara.
 pse né man
 oxi
 mermao
