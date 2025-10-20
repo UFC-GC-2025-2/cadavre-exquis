@@ -19,4 +19,5 @@ Ornitorrinco, o parry o ornitorrinco o parry o ornitorrinco que tomou meu sorvet
 
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion.
 pse né man
+Pior que ele nem respondeu
 
