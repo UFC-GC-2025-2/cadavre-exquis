@@ -94,10 +94,11 @@ AAAAAA
 =======
 >>>>>>> d70ab9c6d4547cd644be1ba45ddf2cd7e13dea32
 =======
-
-<div>
-	<span> 
-		Encontrei o edivar na praça e comprei um milkshake para ele
-	</span>
-</div>
+<html>
+	<div>
+		<span> 
+			O Edivar, o gostoso, lá estava. Então presentiei-o com uma deliciosa <strong> barra de sabão </strong>
+		</span>
+	</div>
+</html>
 >>>>>>> 81877507bda07ab103bc8e90bf499b0068a744ba
