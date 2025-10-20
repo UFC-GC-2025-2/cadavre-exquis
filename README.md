@@ -1,1 +1,1 @@
-Eu estava em Quixadá na praça do Leão então... Quando tudo escureceu.
+Eu estava em Quixadá na praça do Leão então... Quando tudo escureceu. Estávamos apenas eu e ele.
