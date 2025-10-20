@@ -195,6 +195,23 @@ Então coloquei uma blaca do lado dele: "Não dê nem água"
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
 pse né man
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+MEU DEUS
+<<<<<<< HEAD
+>>>>>>> 8d005fa0872c50a14c96dac6e9c35f285163a330
+=======
+>>>>>>> 4197242a0f3c6b8c139826dcce2146e492ba717b
+
+<<<<<<< HEAD
+>>>>>>> 6596b43ed3bb0282dac334ae5880d85c0e584e27
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> f70702a2532881c1cb2b00b8d57cec40dc6990d1
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
 
 O Lion me disse quer era niver dela, aí eu pedi bolo
@@ -210,19 +227,30 @@ oxi
 	</div>
 </html>
 <<<<<<< HEAD
+>>>>>>> 81877507bda07ab103bc8e90bf499b0068a744ba
+<<<<<<< HEAD
+=======
+![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
+>>>>>>> 3698076a9dbb2cef7152f8a14448a2905a67e535
 
-mermão... fiquei enojado.
-
-MEU DEUS.
-Então as lembrei que tive que voltar para a faculdade novamente
+vamo meu povo: <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F310185493104599924%2F&psig=AOvVaw3y9Lf9jk0SoKuRHlbvIvfb&ust=1761073652682000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJid59y8s5ADFQAAAAAdAAAAABAE">
+>>>>>>> 9dcd398 (vamo)
+=======
+>>>>>>> 220f5c0575273d7456342d84ebe6e2eb15fe5ff5
+=======
 =======
 
+>>>>>>> f70702a2532881c1cb2b00b8d57cec40dc6990d1
 mermao
 
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
 >>>>>>> bdeb7c9c8bd69aeb46b441d26f5eb7f87d37af5git pull origin main
 f
 
+<<<<<<< HEAD
+>>>>>>> dcda5defb8b211b786e3c4df7d14d1096c80d446
+>>>>>>> 4197242a0f3c6b8c139826dcce2146e492ba717b
+=======
 
 MEU DEUS
 
@@ -257,13 +285,4 @@ ete :(
 
 ![alt text](image-1.png)
 ai depois disso ainda 
-<<<<<<< HEAD
-e eu só preciso de um commit ):git pull origin main
-git pull origin main
-=======
-<<<<<<< HEAD
 >>>>>>> f70702a2532881c1cb2b00b8d57cec40dc6990d1
-=======
-e eu só preciso de um commit ):
->>>>>>> bdeb7c9c8bd69aeb46b441d26f5eb7f87d37af5f
->>>>>>> b0c1cadb6b43eafc1b8014c869425525c7751825
