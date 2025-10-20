@@ -188,3 +188,4 @@ fiquei enojado
 
 ![alt text](image-1.png)
 ai depois disso ainda 
+e eu só preciso de um commit ):
