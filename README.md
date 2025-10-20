@@ -33,11 +33,9 @@ Eu estava em Quixadá na praça do Leão então, vi um grupo de jovens jogando a
 aaaaaaaa
 Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal. O sorvete tinha algo estranho dentro.
 Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal. E eu disse: Aff que imagem chata!
-=======
 ![img sorvete](https://www.estadao.com.br/resizer/v2/ARWVXQGF6RGFRPBG6D3W26J5BQ.jpg?quality=80&auth=05206814eb1d0c668985a2e0c2753214c22489aacc1d4a58d007406e86ac0bcc&width=1200)
 
 <img src="https://media1.tenor.com/m/dq-3KVwBe7EAAAAd/cat.gif" alt="gifGato"/>
-
 Fui no mercado comprar melao, quando a formiguinha subiu na minha mão
 Ornitorrinco, o parry o ornitorrinco
 Ornitorrinco, o parry o ornitorrinco o parry o ornitorrinco que tomou meu sorvete ![alt text](parry.jpg)
@@ -55,9 +53,7 @@ pse né man
 
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
 
-=======
 Fui ao meercado comprar maça, mas a formiguinha me fez trancar a faculdade
-=======
 Ornitorrinco, o parry o ornitorrinco
 <img src="https://th.bing.com/th/id/OIP.ZDCVMy5VVmbV2rYl75STZAHaF3?w=207&h=180&c=7&r=0&o=7&cb=12&dpr=1.3&pid=1.7&rm=3"/>
 >>>>>>> c2b47b4a9ed1a2c07dc22efabda8cd586551dcc2
@@ -66,7 +62,7 @@ Com toda essa situação, fiquei assustada e voltei à praça para falar com meu
 pse né man
 Eu estava em Quixadá na praça do Leão então... Quando tudo escureceu.
 Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal, o Edivar carregando um
-=======
+
 O sorvete tinha algo estranho dentro. Do absolutamente nada, o tom quadrado me apareceu assim:  
 ![alt text](image.png)
 
@@ -77,14 +73,11 @@ Ornitorrinco, o Perry, o Ornitorrinco!
 Ornitorrinco, o Perry, o Ornitorrinco que tomou meu sorvete!  
 ![alt text](parry.jpg)
 
----
-
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
 
 pse né man.
 
 Então, de repente, vi o Edivar carregando uma mochila da Monster High.
->>>>>>> 7d38fd75cea8fbaafc9720141ec1b1771a08163b
 
 ![rato banho](https://media1.tenor.com/m/BEQXJON8RaMAAAAd/rato-banho.gif)
 
@@ -95,16 +88,7 @@ O Lion me disse que era aniversário dela, então pedi bolo 🎂.
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
 pse né man
 oxi
-<<<<<<< HEAD
-mermao
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-=======
-=======
 Então coloquei uma blaca do lado dele: "Não dê nem água"
-mermao
->>>>>>> 7d38fd75cea8fbaafc9720141ec1b1771a08163b
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
 
 <html>
@@ -114,16 +98,8 @@ mermao
 		</span>
 	</div>
 </html>
-<<<<<<< HEAD
->>>>>>> 81877507bda07ab103bc8e90bf499b0068a744ba
->>>>>>> 220f5c0575273d7456342d84ebe6e2eb15fe5ff5
-=======
-Então as lembrei que tive que voltar para a faculdade novamente
->>>>>>> 23b0a5057edcf3d0dd969adc3bc56322eb3495a3
-=======
 
 mermão... fiquei enojado.
 
 MEU DEUS.
 Então as lembrei que tive que voltar para a faculdade novamente
->>>>>>> 7d38fd75cea8fbaafc9720141ec1b1771a08163b
