@@ -266,9 +266,9 @@ AAAAAA
 		Encontrei o edivar na praça e comprei um milkshake para ele, mas era uma barra de sabão.
 	</span>
 </div>
->>>>>>> 81877507bda07ab103bc8e90bf499b0068a744ba
+
 <<<<<<< HEAD
->>>>>>> c2b47b4a9ed1a2c07dc22efabda8cd586551dcc2
+
 
 # <img src="image.png">
 
