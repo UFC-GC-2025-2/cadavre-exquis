@@ -59,3 +59,4 @@ mermao
 mermão... fiquei enojado.
 
 MEU DEUS.
+Então as lembrei que tive que voltar para a faculdade novamente
