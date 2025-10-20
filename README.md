@@ -64,3 +64,4 @@ Com toda essa situação, fiquei assustada e voltei à praça para falar com meu
 pse né man
 oxi
 mermao
+Então as lembrei que tive que voltar para a faculdade novamente
