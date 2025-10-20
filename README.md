@@ -45,6 +45,7 @@ Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei 
  O sorvete tinha algo estranho dentro. Do absolutamente nada, o tom quadrado me apareceu assi: ![alt text](image.png)
 
 Fui no mercado comprar melao, quando a formiguinha subiu na minha mão
+Fui ao meercado comprar maça, mas a formiguinha me fez trancar a faculdade
 Ornitorrinco, o parry o ornitorrinco o parry o ornitorrinco que tomou meu sorvete ![alt text](parry.jpg)
 <<<<<<< HEAD
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion.
