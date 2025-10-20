@@ -32,8 +32,7 @@ Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei 
 <<<<<<< HEAD
 <<<<<<< HEAD
 
-> > > > > > > # 2262797bcc384c36ab9a0b5595844c489f3443f7
-> > > > > > >
+
 > > > > > > > Eu estava em Quixadá na praça do Leão então, vi um grupo de jovens jogando altinha. Pareciam universitários, estavam muito animados pois as férias já estavam chegando e tinha concluido a última prova. Quando tudo escureceu. Quando tudo escureceu.
 > > > > > > > e75940b9e9cfcd8640a953f25eead6fe475478f8
 > > > > > > > Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete
@@ -85,11 +84,7 @@ Com toda essa situação, fiquei assustada e voltei à praça para falar com meu
 pse né man
 Eu estava em Quixadá na praça do Leão então... Quando tudo escureceu.
 Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal, o Edivar carregando uma mochila da monster high
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 > > > > > > > # b14ea1e4a6ce4d84a7625ef5a8c23c3b16ce39d7
 
@@ -134,10 +129,17 @@ pse né man
 
 <br/>
 
+<<<<<<< HEAD
+=======
+Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
+pse né man
+
+
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
 pse né man
 
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
+<<<<<<< HEAD
 
 O Lion me disse quer era niver dela, aí eu pedi bolo
 
@@ -185,3 +187,6 @@ fiquei enojado
 
 ![gif](https://th.bing.com/th/id/R.7722fd62ad3821d1b42d4f5fbabb6218?rik=kLth1JKCx0CTIQ&pid=ImgRaw&r=0)
 >>>>>>> fa154874a22544c971f07361a8dc741a3c67a2c7
+=======
+alo
+>>>>>>> e7685e4 (linha 17)
