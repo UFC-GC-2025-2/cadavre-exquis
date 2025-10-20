@@ -148,7 +148,7 @@ oxi
 <html>
 	<div>
 		<span> 
-			O Edivar, o gostoso, lá estava. Então presentiei-o com uma deliciosa <strong> barra de sabão </strong>
+			O Edivar, o gostoso, lá estava lindão. Então presentiei-o com uma deliciosa <strong> barra de sabão </strong>
 		</span>
 	</div>
 </html>
