@@ -263,4 +263,6 @@ e eu só preciso de um commit ):
 >>>>>>> f70702a2532881c1cb2b00b8d57cec40dc6990d1
 >>>>>>> 83a837547f58642bdaf5fd3b732cbdcb42083ab0
 
-foi
+
+
+EDIVAR E KAWAN ESTIVERAM AQUI 
