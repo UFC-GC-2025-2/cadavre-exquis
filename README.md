@@ -1,6 +1,16 @@
-Eu estava em Quixadá na praça do Leão então, vi um grupo de jovens jogando altinha. Pareciam universitários, estavam muito animados pois as férias já estavam chegando e tinha concluido a última prova. Quando tudo escureceu.
 Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal.
 <img src="https://media1.tenor.com/m/dq-3KVwBe7EAAAAd/cat.gif" alt="gifGato"/>
  O sorvete tinha algo estranho dentro. Do absolutamente nada, o tom quadrado me apareceu assi: ![alt text](image.png)
+Ornitorrinco
 
-Fui no mercado comprar melão, quando a formiguinha entrou na minha mão.
+
+
+
+
+
+
+
+
+
+
+Fui no mercado comprar melao, quando a formiguinha subiu na minha mão
