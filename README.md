@@ -80,6 +80,7 @@ pse né man
 
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 3698076a9dbb2cef7152f8a14448a2905a67e535
 
 <<<<<<< HEAD
@@ -94,3 +95,11 @@ AAAAAA
 >>>>>>> e4fb349d905f3a78b5a3c01a0dec7848993e2603
 =======
 >>>>>>> d70ab9c6d4547cd644be1ba45ddf2cd7e13dea32
+=======
+
+<div>
+	<span> 
+		Encontrei o edivar na praça e comprei um milkshake para ele
+	</span>
+</div>
+>>>>>>> 81877507bda07ab103bc8e90bf499b0068a744ba
