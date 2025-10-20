@@ -83,6 +83,7 @@ pse né man
 
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
 MEU DEUS
 <<<<<<< HEAD
 >>>>>>> 8d005fa0872c50a14c96dac6e9c35f285163a330
@@ -102,3 +103,9 @@ AAAAAA
 	</div>
 </html>
 >>>>>>> 81877507bda07ab103bc8e90bf499b0068a744ba
+=======
+![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
+>>>>>>> 3698076a9dbb2cef7152f8a14448a2905a67e535
+
+vamo meu povo: <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F310185493104599924%2F&psig=AOvVaw3y9Lf9jk0SoKuRHlbvIvfb&ust=1761073652682000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJid59y8s5ADFQAAAAAdAAAAABAE">
+>>>>>>> 9dcd398 (vamo)
