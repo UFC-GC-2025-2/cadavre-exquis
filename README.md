@@ -78,3 +78,9 @@ Com toda essa situação, fiquei assustada e voltei à praça para falar com meu
 pse né man
 
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
+
+<div>
+	<span> 
+		Encontrei o edivar na praça e comprei um milkshake para ele
+	</span>
+</div>
