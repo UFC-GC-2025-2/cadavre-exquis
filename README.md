@@ -73,3 +73,5 @@ pse né man
 >>>>>>> 6596b43ed3bb0282dac334ae5880d85c0e584e27
 =======
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
+
+O Lion me disse quer era niver dela, aí eu pedi bolo
