@@ -23,4 +23,7 @@ Ornitorrinco
 
 Fui no mercado comprar melao, quando a formiguinha subiu na minha mão
 Ornitorrinco, o parry o ornitorrinco
-Com toda essa situação, fiquei assustada e voltei a praça para falar com meu amigo Lion.
+Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion.
+
+<br/>
+E então, de repente, um cachorro caramelo apareceu 🐕
