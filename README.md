@@ -27,3 +27,13 @@ Com toda essa situação, fiquei assustada e voltei à praça para falar com meu
 
 <br/>
 E então, de repente, um cachorro caramelo apareceu 🐕
+
+
+
+
+
+
+
+
+Um homem bateu na minha porta e eu abri, senhoras e senhores...
+
