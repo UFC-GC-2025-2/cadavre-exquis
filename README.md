@@ -263,4 +263,8 @@ fiquei enojado
 
 ![alt text](image-1.png)
 ai depois disso ainda 
+<<<<<<< HEAD
 >>>>>>> f70702a2532881c1cb2b00b8d57cec40dc6990d1
+=======
+e eu só preciso de um commit ):
+>>>>>>> bdeb7c9c8bd69aeb46b441d26f5eb7f87d37af5f
