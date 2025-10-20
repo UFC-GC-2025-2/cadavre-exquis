@@ -1,1 +1,2 @@
-Eu estava em Quixadá na praça do Leão então... Quando tudo escureceu. Estávamos apenas eu e ele.
+Eu estava em Quixadá na praça do Leão então... Quando tudo escureceu.
+Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal. O sorvete tinha algo estranho dentro. E tudo estava lindo.
