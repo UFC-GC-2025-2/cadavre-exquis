@@ -167,7 +167,7 @@ AAAAAA
 
 <div>
 	<span> 
-		Encontrei o edivar na praça e comprei um milkshake para ele
+		Encontrei o edivar na praça e comprei um milkshake para ele, mas era uma barra de sabão.
 	</span>
 </div>
 >>>>>>> 81877507bda07ab103bc8e90bf499b0068a744ba
