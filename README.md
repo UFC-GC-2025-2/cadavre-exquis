@@ -78,3 +78,4 @@ Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei 
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
 pse né man
 oxi
+Então coloquei uma blaca do lado dele: "Não dê nem água"
