@@ -176,24 +176,6 @@ pse né man
 
 <br/>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
-pse né man
-
-
-=======
-O Lion me disse que era aniversário dela, então pedi bolo 🎂.
-
-Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
-pse né man
-oxi
-Então coloquei uma blaca do lado dele: "Não dê nem água"
-![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
-
-=======
->>>>>>> b0c1cadb6b43eafc1b8014c869425525c7751825
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
 pse né man
 
@@ -215,7 +197,6 @@ MEU DEUS
 =======
 >>>>>>> f70702a2532881c1cb2b00b8d57cec40dc6990d1
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
-<<<<<<< HEAD
 
 O Lion me disse quer era niver dela, aí eu pedi bolo
 
@@ -234,20 +215,11 @@ oxi
 	</div>
 </html>
 <<<<<<< HEAD
-<<<<<<< HEAD
-
-mermão... fiquei enojado.
-
-MEU DEUS.
-Então as lembrei que tive que voltar para a faculdade novamente
-=======
-=======
 >>>>>>> 81877507bda07ab103bc8e90bf499b0068a744ba
 <<<<<<< HEAD
 =======
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
 >>>>>>> 3698076a9dbb2cef7152f8a14448a2905a67e535
->>>>>>> a1a769d70fa4002c3a7dc3da717c54cd194016cc
 
 vamo meu povo: <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F310185493104599924%2F&psig=AOvVaw3y9Lf9jk0SoKuRHlbvIvfb&ust=1761073652682000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJid59y8s5ADFQAAAAAdAAAAABAE">
 >>>>>>> 9dcd398 (vamo)
@@ -303,13 +275,4 @@ alo
 
 ![alt text](image-1.png)
 ai depois disso ainda 
-<<<<<<< HEAD
-<<<<<<< HEAD
 >>>>>>> f70702a2532881c1cb2b00b8d57cec40dc6990d1
-=======
-e eu só preciso de um commit ):
->>>>>>> bdeb7c9c8bd69aeb46b441d26f5eb7f87d37af5f
->>>>>>> b0c1cadb6b43eafc1b8014c869425525c7751825
-=======
->>>>>>> f70702a2532881c1cb2b00b8d57cec40dc6990d1
->>>>>>> a1a769d70fa4002c3a7dc3da717c54cd194016cc
