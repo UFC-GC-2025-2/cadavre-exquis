@@ -11,3 +11,6 @@ Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei 
  O sorvete tinha algo estranho dentro. Do absolutamente nada, o tom quadrado me apareceu assi: ![alt text](image.png)
 Ornitorrinco, o parry o ornitorrinco
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion.
+
+<br/>
+E então, de repente, um cachorro caramelo apareceu 🐕
