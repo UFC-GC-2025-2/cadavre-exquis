@@ -1,32 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-Eu estava em Quixadá, na praça do Leão. Vi um grupo de jovens jogando altinha — pareciam universitários, muito animados porque as férias estavam chegando e tinham acabado de concluir a última prova. De repente tudo escureceu.
 
-Depois disso, fui até a sorveteria e pedi uma casquinha de baunilha. Quando olhei para o sorvete, vi algo surreal: havia algo estranho dentro.
-
-![gatoGif](https://media1.tenor.com/m/dq-3KVwBe7EAAAAd/cat.gif)
-
-E, mais tarde, participei de uma roda de conversa com meus amigos.
-
-<<<<<<< HEAD
-Eu estava em Quixadá, na praça do Leão. Vi um grupo de jovens jogando altinha — pareciam universitários, muito animados porque as férias estavam chegando e tinham acabado de concluir a última prova. De repente tudo escureceu.
-
-Depois disso, fui até a sorveteria e pedi uma casquinha de baunilha. Quando olhei para o sorvete, vi algo surreal: havia algo estranho dentro.
-
-![gatoGif](https://media1.tenor.com/m/dq-3KVwBe7EAAAAd/cat.gif)
-
-## E, mais tarde, participei de uma roda de conversa com meus amigos e familiares.
-
-Eu estava em Quixadá na praça do Leão então, vi um grupo de jovens jogando altinha. Pareciam universitários, estavam muito animados pois as férias já estavam chegando e tinha concluido a última prova. Quando tudo escureceu.
-Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal. O sorvete tinha algo estranho dentro.
-
-=======
 Eu estava em Quixadá na praça do Leão então... Quando tudo escureceu.
-=======
-aaaaaaaaaEu estava em Quixadá na praça do Leão então... Quando tudo escureceu.
 
 > > > > > > > # 2262797bcc384c36ab9a0b5595844c489f3443f7
 > > > > > > >
@@ -60,7 +33,7 @@ Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei 
 
 <br/>
 
+<<<<<<< HEAD
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion (ele é Mestre Conselheiro Estadual), o gato da Clara.
-pse né man
-oxi
-mermao
+
+
