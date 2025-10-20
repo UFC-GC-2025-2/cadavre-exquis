@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Eu estava em Quixadá, na praça do Leão. Vi um grupo de jovens jogando altinha — pareciam universitários, muito animados porque as férias estavam chegando e tinham acabado de concluir a última prova. De repente tudo escureceu.
 
 Depois disso, fui até a sorveteria e pedi uma casquinha de baunilha. Quando olhei para o sorvete, vi algo surreal: havia algo estranho dentro.
@@ -22,6 +23,9 @@ Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei 
 
 =======
 Eu estava em Quixadá na praça do Leão então... Quando tudo escureceu.
+=======
+aaaaaaaaaEu estava em Quixadá na praça do Leão então... Quando tudo escureceu.
+>>>>>>> 2262797bcc384c36ab9a0b5595844c489f3443f7
 Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete
 
 ![img sorvete](https://www.estadao.com.br/resizer/v2/ARWVXQGF6RGFRPBG6D3W26J5BQ.jpg?quality=80&auth=05206814eb1d0c668985a2e0c2753214c22489aacc1d4a58d007406e86ac0bcc&width=1200)
@@ -32,6 +36,25 @@ Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei 
 Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei para o sorvete vi algo surreal.
 <img src="https://media1.tenor.com/m/dq-3KVwBe7EAAAAd/cat.gif" alt="gifGato"/>
  O sorvete tinha algo estranho dentro. Do absolutamente nada, o tom quadrado me apareceu assi: ![alt text](image.png)
+Ornitorrinco
+
+
+
+
+
+
+
+
+
+
+
+Fui no mercado comprar melao, quando a formiguinha subiu na minha mão
 Ornitorrinco, o parry o ornitorrinco
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion.
+<<<<<<< HEAD
 >>>>>>> b14ea1e4a6ce4d84a7625ef5a8c23c3b16ce39d7
+=======
+
+<br/>
+E então, de repente, um cachorro caramelo apareceu 🐕
+>>>>>>> 2262797bcc384c36ab9a0b5595844c489f3443f7
