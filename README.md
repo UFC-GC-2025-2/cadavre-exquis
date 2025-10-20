@@ -153,27 +153,17 @@ oxi
 
 mermao
 
-<<<<<<< HEAD
 ![img](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-> > > > > > > 3698076a9dbb2cef7152f8a14448a2905a67e535
-
-# <<<<<<< HEAD
 
 MEU DEUS
-<<<<<<< HEAD
 
-> > > > > > > 8d005fa0872c50a14c96dac6e9c35f285163a330
+
 
 # ![img](https://miro.medium.com/v2/resize:fit:1000/0*yItQ1DiR5PLcd94T.jpg)
 
 AAAAAA
 
-> > > > > > > # e4fb349d905f3a78b5a3c01a0dec7848993e2603
-> > > > > > >
-> > > > > > > # d70ab9c6d4547cd644be1ba45ddf2cd7e13dea32
 
 <div>
 	<span> 
@@ -181,6 +171,7 @@ AAAAAA
 	</span>
 </div>
 >>>>>>> 81877507bda07ab103bc8e90bf499b0068a744ba
+<<<<<<< HEAD
 >>>>>>> c2b47b4a9ed1a2c07dc22efabda8cd586551dcc2
 
 # <img src="image.png">
@@ -190,3 +181,7 @@ fiquei enojado
 > > > > > > > dcda5defb8b211b786e3c4df7d14d1096c80d446
 
 <img src="parry.jpg"> e o sol derreteu meu sorvete :(
+=======
+
+![gif](https://th.bing.com/th/id/R.7722fd62ad3821d1b42d4f5fbabb6218?rik=kLth1JKCx0CTIQ&pid=ImgRaw&r=0)
+>>>>>>> fa154874a22544c971f07361a8dc741a3c67a2c7
