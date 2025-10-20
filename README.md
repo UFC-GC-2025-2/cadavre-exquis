@@ -187,3 +187,4 @@ fiquei enojado
 >>>>>>> fa154874a22544c971f07361a8dc741a3c67a2c7
 
 ![alt text](image-1.png)
+ai depois disso ainda 
