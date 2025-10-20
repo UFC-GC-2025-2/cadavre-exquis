@@ -14,7 +14,7 @@ Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei 
 
 Fui no mercado comprar melao, quando a formiguinha subiu na minha mão
 Ornitorrinco, o parry o ornitorrinco o parry o ornitorrinco que tomou meu sorvete ![alt text](parry.jpg)
-Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion.
+Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion, o gato da Clara.
 pse né man
 
 
