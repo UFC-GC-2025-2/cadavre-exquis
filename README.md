@@ -12,7 +12,7 @@ Então cheguei na sorveteria e pedi uma casquinha de baunilha, mas quando olhei 
 Ornitorrinco
 
 
-
+![meme](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
 
 
 
@@ -24,8 +24,3 @@ Ornitorrinco
 Fui no mercado comprar melao, quando a formiguinha subiu na minha mão
 Ornitorrinco, o parry o ornitorrinco
 Com toda essa situação, fiquei assustada e voltei à praça para falar com meu amigo Lion.
-
-![meme](https://miro.medium.com/v2/resize:fit:1200/0*tmfbLDU_hIeg0B3B.jpg)
-
-<br/>
-E então, de repente, um cachorro caramelo apareceu 🐕
