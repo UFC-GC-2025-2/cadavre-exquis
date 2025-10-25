@@ -137,5 +137,5 @@ O sorvete tinha algo estranho dentro. Do nada, um tom quadrado apareceu: ![alt t
 
 MEU DEUS — difícil descrever tudo que aconteceu. Ainda assim, preciso fazer um commit :)
 
-Victor esteve aqui
+Victor esteve aqui e Enzo também
 ```
